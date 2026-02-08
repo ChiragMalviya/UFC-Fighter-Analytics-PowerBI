@@ -48,7 +48,7 @@ This project focuses on **data modeling, performance, and user experience**, not
 
 
 See detailed explanation here:  
-📄 [Data Model Explanation](Docs/Data-Model-Explanation)
+📄 [Data Model Explanation](Docs/Data-Model-Explanation.md)
 
 ---
 
